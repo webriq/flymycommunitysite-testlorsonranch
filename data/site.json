@@ -1,26 +1,26 @@
 {
   "sitedata": [
     {
-      "sitename": "Fly My Community",
+      "sitename": "Lorson Ranch",
       "icon": "/img/favicon.png",
       "logo": "https://res.cloudinary.com/drjzrh756/image/upload/v1526567040/kx0os4vdczatdgf2pkla.jpg",
-      "metadesc": "Trusted By Fine Real Estate Professionals",
+      "metadesc": "CO",
       "metauthor": "Fly My Community",
       "metakeyword": "cms"
     }
   ],
   "content": [
     {
-      "email": "flymycommunity@gmail.com",
-      "linkcont": "+0909 2131 1231",
+      "email": "vanwierenrick@gmail.com",
+      "linkcont": "719.331.7675",
       "videoid": "234126890",
       "sliderbg": "/img/fly3_bg.jpg"
     }
   ],
   "about": [
     {
-      "abouttext1": "Crystal Park - FMC ",
-      "abouttext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
+      "abouttext1": "Lorson Ranch",
+      "abouttext2": "Lorson Ranch represents the pride and quality of homeownership and homebuilding in Colorado Springs. This 1,400 acre community is located in southeast Colorado Springs at Marksheffel Road & Fontaine Boulevard. This planned community offers a high standard of living coupled with affordability and diversity with home prices ranging from the low $200s to the mid $300s.  Lorson Ranch is advantageously located at the epicenter of military operations; located 6 miles southwest of Schriever Air Force Base, 4 miles south of Peterson Air Force Base, 6 miles south east of the Colorado Springs Airport, and 5 miles east of Ft. Carson Military Reservation. Its rural setting is representative of the quiet and safe environment that residents call home.",
       "aboutbg": "/img/content_bg.png"
     }
   ],
